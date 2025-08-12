@@ -3,7 +3,7 @@ KWGT &amp; KLWP &amp; KLCK
 --
 Welcome to the KUSTOM world. Create & share amazing Widgets and Live Wallpapers for your device.
 
-KWGT
+KWGT     
 <img width="96" height="96" alt="ic_kwgt_hu_e8d779f778243857" src="https://github.com/user-attachments/assets/ae3f0ddd-cf0a-477e-9ccc-6b70ec73f400" />
 
 Create Android widgets your way, not only clocks but calendars, music widgets, home automation dashboards, 
