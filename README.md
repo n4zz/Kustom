@@ -28,7 +28,8 @@ Project homepage : https://docs.kustom.rocks/
       
 ## T3L1D4    
 Textual light Dashboard    
+[⬇ Download]()          
     
 ## AIMP     
 KWGT widget for AIMP Playe.     
-https://github.com/n4zz/Kustom/releases/download/AIMP_widget-v1.2/Aimp_v12.kwgt
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/AIMP_widget-v1.2/Aimp_v12.kwgt)
