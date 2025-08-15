@@ -20,4 +20,15 @@ KLWP
 Push your customization to the limit with the most advanced live wallpaper creator in da house! 
 Add animations to your data in the most creatives way, make your home screen interactive exactly as you imagined it
 
-Project homepage : https://docs.kustom.rocks/
+Project homepage : https://docs.kustom.rocks/    
+    
+----    
+      
+# 📱 Kustom projekts     
+      
+## T3L1D4    
+Textual light Dashboard    
+    
+## AIMP     
+KWGT widget for AIMP Playe.     
+https://github.com/n4zz/Kustom/releases/download/AIMP_widget-v1.2/Aimp_v12.kwgt
