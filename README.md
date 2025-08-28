@@ -21,7 +21,7 @@ Project homepage : https://docs.kustom.rocks/
 ## T3L1D4        
 Textual light Dashboard   [>>>](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4.md)     
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/T3L1D4-v1.2/T3L1D4.klwp)       
-[⬇ Wallpaper Download](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4-background.png)    
+[⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4-background.png)    
 
 ## AIMP     
 KWGT widget for AIMP Player.   [>>>](https://github.com/n4zz/Kustom/blob/main/Projects/AIMP/widget%20for%20aimp.md)        
