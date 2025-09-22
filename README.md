@@ -28,6 +28,6 @@ KWGT widget for AIMP Player.   [>>>](https://github.com/n4zz/Kustom/blob/main/Pr
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/AIMP_widget-v1.2/Aimp_v12.kwgt)      
      
 ## Xi05        
-Space-themed KLWP  
-[⬇ Download](https://github.com/n4zz/Kustom/releases/download/Xi05_v.1.1b/Xi05_v11b.klwp)
-[⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/wallpaper.png)    
+Space-themed KLWP      
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/Xi05_v.1.1b/Xi05_v11b.klwp)      
+[⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/wallpaper.png)         
