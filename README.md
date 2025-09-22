@@ -29,5 +29,5 @@ KWGT widget for AIMP Player.   [>>>](https://github.com/n4zz/Kustom/blob/main/Pr
      
 ## Xi05        
 Space-themed KLWP  [>>>](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4.md)     
-[⬇ Download](https://github.com/n4zz/Kustom/releases/download/T3L1D4-v1.2/T3L1D4.klwp)       
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/Xi05_v.1.1b/Xi05_v11b.klwp)
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4-background.png)    
