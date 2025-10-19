@@ -46,5 +46,4 @@ Matrix circulater klwp dashboard
 KWGT widget    
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/GoYourWay_KWGT.v1.1/GyW11.kwgt)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/kevin-mueller-ZSETp_jNviU-unsplash.jpg)        
-<img src="/Kustom/blob/main/Projects/GyW%20-%20KWGT/GyW_KWGT.png" alt="Screenshot_GyW" width="600">
-<img src="https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/GyW_KWGT.png" width="300">
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/GyW_KWGT.png" width="100">
