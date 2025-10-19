@@ -29,20 +29,20 @@ KWGT widget for AIMP Player.   [>>>](https://github.com/n4zz/Kustom/blob/main/Pr
      
 ## Xi05        
 Space-themed KLWP       
- <img src="https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/Gallery/xi05_doors.png" width="100">
+ <img src="https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/Gallery/xi05_doors.png" width="90">
  <img src="https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/Gallery/Xi05_wall_details.png" width="100">       
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/Xi05_v.1.1b/Xi05_v11b.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/wallpaper.png)         
 
 ## RNDH5        
 KLWP Neon glow dashboard        
- <img src="https://github.com/n4zz/Kustom/blob/main/Projects/RNDH5/detail_RNDH5.png" width="100">      
+ <img src="https://github.com/n4zz/Kustom/blob/main/Projects/RNDH5/detail_RNDH5.png" width="200">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/RNDH5.v1/RNDH5_v11.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/RNDH5/holes4~2.jpg)         
 
 ## M4C1k        
 Matrix circulater klwp dashboard     
- <img src="https://github.com/n4zz/Kustom/blob/main/Projects/M4C1K/M4C1k_detail.png" width="100">       
+ <img src="https://github.com/n4zz/Kustom/blob/main/Projects/M4C1K/M4C1k_detail.png" width="200">       
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/M4C1k_v.1.0/M4C1k.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/M4C1K/wallpapers/Code%20Cascade.jpg))        
 
