@@ -19,7 +19,8 @@ Project homepage : https://docs.kustom.rocks/
 # 📱 Kustom projekts     
       
 ## T3L1D4        
-Textual light Dashboard   [>>>](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4.md)     
+Textual light Dashboard   [>>>](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4.md)        
+ <img src="" width="100">
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/T3L1D4-v1.2/T3L1D4.klwp)       
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/T3L1D4/T3L1D4-background.png)    
 
@@ -28,22 +29,25 @@ KWGT widget for AIMP Player.   [>>>](https://github.com/n4zz/Kustom/blob/main/Pr
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/AIMP_widget-v1.2/Aimp_v12.kwgt)      
      
 ## Xi05        
-Space-themed KLWP      
+Space-themed KLWP       
+ <img src="" width="100">
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/Xi05_v.1.1b/Xi05_v11b.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/Xi05/wallpaper.png)         
 
 ## RNDH5        
-KLWP Neon glow dashboard     
+KLWP Neon glow dashboard        
+ <img src="https://github.com/n4zz/Kustom/blob/main/Projects/RNDH5/detail_RNDH5.png" width="100">
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/RNDH5.v1/RNDH5_v11.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/RNDH5/holes4~2.jpg)         
 
 ## M4C1k        
 Matrix circulater klwp dashboard     
+ <img src="https://github.com/n4zz/Kustom/blob/main/Projects/M4C1K/M4C1k_detail.png" width="100">
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/M4C1k_v.1.0/M4C1k.klwp)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/M4C1K/wallpapers/Code%20Cascade.jpg))        
 
 ## Go Your Way        
-KWGT widget    
+KWGT widget       
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/GyW_KWGT.png" width="100">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/GoYourWay_KWGT.v1.1/GyW11.kwgt)      
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/kevin-mueller-ZSETp_jNviU-unsplash.jpg)        
-<img src="https://github.com/n4zz/Kustom/blob/main/Projects/GyW%20-%20KWGT/GyW_KWGT.png" width="100">
