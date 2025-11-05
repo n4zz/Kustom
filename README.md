@@ -55,6 +55,6 @@ KWGT widget
 ## FLFA      
 Futurisctic LFA - Motosport gauge (Inspirated by Lexus LFA)       
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/FLFA/FLFA_Cpu_Ram.png" width="100">      
-[⬇ Download](https://github.com/n4zz/Kustom/releases/download/FLFA_v.1/FLFA.klwp)
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/FLFA_v.1/FLFA.klwp)       
 [⬇ Wallpaper](https://github.com/n4zz/Kustom/blob/main/Projects/FLFA/yoal-desurmont-S9OCBwRFV_k-unsplash~2.jpg)      
 
