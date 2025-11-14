@@ -60,11 +60,11 @@ Futurisctic LFA - Motosport gauge (Inspirated by Lexus LFA)
 
 ## M3G4_G0G      
 Futuristic space dasboard     
-<img src="https://https://github.com/n4zz/Kustom/blob/main/Projects/M3G4_G0G/MG_time_full.png" width="100">      
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/M3G4_G0G/MG_time_full.png" width="100">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/tag/M3G4_G0G_v.1)             
 
 ## N3D45      
 KLWP fullscreen dashboard    
-<img src="https://https://github.com/n4zz/Kustom/blob/main/Projects/N3D45/main.png" width="100">      
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/N3D45/main.png" width="100">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/N3D45_v.1.1/N3D45.klwp)             
 
