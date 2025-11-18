@@ -68,3 +68,8 @@ KLWP fullscreen dashboard
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/N3D45/main.png" width="100">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/N3D45_v.1.1/N3D45.klwp)             
 
+## CY4N3R      
+KLWP dashboard     
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/hw.png" width="100">      
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/CY4N3R_v.1/CY4N3R.klwp)             
+
