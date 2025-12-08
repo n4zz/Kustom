@@ -68,10 +68,10 @@ KLWP fullscreen dashboard
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/N3D45/main.png" width="100">      
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/N3D45_v.1.1/N3D45.klwp)             
 
-## CY4N3R      
+## CY4N3R v_1.1        
 KLWP dashboard     
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/hw.png" width="100">      
 Update:      
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/update_calendar_events.png" width="100">  <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/add_music_visualizer.png" width="100"> <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/add_small_battery_info.png" width="100">        
-[⬇ Download](https://github.com/n4zz/Kustom/releases/download/CY4N3R_v.1/CY4N3R.klwp)             
+[⬇ Download](https://github.com/n4zz/Kustom/releases/download/CY4N3R_v.1/CY4N3R_v1.1.klwp)             
 
