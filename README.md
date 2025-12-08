@@ -71,5 +71,7 @@ KLWP fullscreen dashboard
 ## CY4N3R      
 KLWP dashboard     
 <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/hw.png" width="100">      
+Update:      
+<img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/update_calendar_events.png">  <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/add_music_visualizer.png"> <img src="https://github.com/n4zz/Kustom/blob/main/Projects/CY4N3R/add_small_battery_info.png">        
 [⬇ Download](https://github.com/n4zz/Kustom/releases/download/CY4N3R_v.1/CY4N3R.klwp)             
 
